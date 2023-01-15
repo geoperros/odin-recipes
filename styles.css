@@ -1,0 +1,30 @@
+
+.header {
+  text-align: center;
+  font-size: xx-large;
+  color: red;
+  background-color: black;
+}
+
+.list {
+  font-weight: 700;
+  color: blue;
+}
+.para {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.rec_list {
+  font-style: italic;
+  font-weight: 500;
+
+}
+#top_img {
+  height: 150px;
+  width: auto;
+}
+#index {
+  text-align: center;
+  font-size: large;
+  font-family: 'Courier New', Courier, monospace;
+}
